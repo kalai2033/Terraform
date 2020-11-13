@@ -1,5 +1,5 @@
 # Terraform
-Terraform script for automated creation of AWS Fargate instance
+Terraform script for automated spawn and detruction of AWS ECS Fargate instance for deploying a docker container
 
 ## Commands
 
